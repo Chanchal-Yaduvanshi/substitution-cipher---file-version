@@ -20,15 +20,24 @@ Example Output:
 Suppose the input file contains the text: "Hello, World!".
 
 The script would encrypt each letter backward by one position:
-"H" becomes "G".
-"e" becomes "d".
-"l" becomes "k".
-"o" becomes "n".
-"W" becomes "V".
-"r" becomes "q".
-"l" becomes "k".
-"d" becomes "c".
-"!" remains "!". (as it is not a letter)
+"H" becomes "G"
+
+"e" becomes "d"
+
+"l" becomes "k"
+
+"o" becomes "n"
+
+"W" becomes "V"
+
+"r" becomes "q"
+
+"l" becomes "k"
+
+"d" becomes "c"
+
+"!" remains "!" (as it is not a letter)
+
 The encrypted text is written to "output_file.txt", and each encrypted character is printed.
 
 Enjoy encrypting and decrypting messages using the substitution cipher technique
